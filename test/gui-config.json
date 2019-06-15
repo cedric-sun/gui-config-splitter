@@ -1,0 +1,121 @@
+{
+    "configs": [
+        {
+            "server": "au1-fakedomain.com",
+            "server_port": 12345,
+            "local_port": 1080,
+            "password": "fakepassword",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u6fb3\u5927\u5229\u4e9a 1,\u6570\u636e\u7528\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "de1-fakedomain.com",
+            "server_port": 12345,
+            "local_port": 1080,
+            "password": "fakepassword",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u5fb7\u56fd 1,\u6570\u636e\u7528\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "hk2-fakedomain.com",
+            "server_port": 12345,
+            "local_port": 1080,
+            "password": "fakepassword",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u9999\u6e2f 2,\u6570\u636e\u7528\u91cf\u500d\u7387:1.50"
+        },
+        {
+            "server": "hk3-fakedomain.com",
+            "server_port": 12345,
+            "local_port": 1080,
+            "password": "fakepassword",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u9999\u6e2f 3,\u6570\u636e\u7528\u91cf\u500d\u7387:0.01"
+        },
+        {
+            "server": "jp1-fakedomain.com",
+            "server_port": 12345,
+            "local_port": 1080,
+            "password": "fakepassword",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u65e5\u672c 1,\u6570\u636e\u7528\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "jp2-fakedomain.com",
+            "server_port": 12345,
+            "local_port": 1080,
+            "password": "fakepassword",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u65e5\u672c 2,\u6570\u636e\u7528\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "jp3-fakedomain.com",
+            "server_port": 12345,
+            "local_port": 1080,
+            "password": "fakepassword",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u65e5\u672c 3,\u6570\u636e\u7528\u91cf\u500d\u7387:1.00"
+        },
+        {
+            "server": "nl1-fakedomain.com",
+            "server_port": 12345,
+            "local_port": 1080,
+            "password": "fakepassword",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u8377\u5170 1,\u6570\u636e\u7528\u91cf\u500d\u7387:0.10"
+        },
+        {
+            "server": "ru1-fakedomain.com",
+            "server_port": 12345,
+            "local_port": 1080,
+            "password": "fakepassword",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u4fc4\u7f57\u65af 1,\u6570\u636e\u7528\u91cf\u500d\u7387:1.20"
+        },
+        {
+            "server": "sg1-fakedomain.com",
+            "server_port": 12345,
+            "local_port": 1080,
+            "password": "fakepassword",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u65b0\u52a0\u5761 1,\u6570\u636e\u7528\u91cf\u500d\u7387:1.20"
+        },
+        {
+            "server": "sz-fakedomain.com",
+            "server_port": 12345,
+            "local_port": 1080,
+            "password": "fakepassword",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u6df1\u6e2f\u4e13\u7ebf,\u6570\u636e\u7528\u91cf\u500d\u7387:2.00"
+        },
+        {
+            "server": "uk1-fakedomain.com",
+            "server_port": 12345,
+            "local_port": 1080,
+            "password": "fakepassword",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u82f1\u56fd 1,\u6570\u636e\u7528\u91cf\u500d\u7387:0.10"
+        },
+        {
+            "server": "us1-fakedomain.com",
+            "server_port": 12345,
+            "local_port": 1080,
+            "password": "fakepassword",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u7f8e\u56fd 1,\u6570\u636e\u7528\u91cf\u500d\u7387:0.01"
+        },
+        {
+            "server": "us3-fakedomain.com",
+            "server_port": 12345,
+            "local_port": 1080,
+            "password": "fakepassword",
+            "method": "chacha20-ietf-poly1305",
+            "remarks": "\u7f8e\u56fd 3,\u6570\u636e\u7528\u91cf\u500d\u7387:0.01"
+        }
+    ],
+    "localPort": 1080,
+    "index": 0,
+    "global": false,
+    "enabled": true,
+    "isDefault": false
+}
